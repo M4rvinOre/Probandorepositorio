@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcularBonoGuia3", "calcularBonoGuia3\calcularBonoGuia3.csproj", "{989795EF-E006-4A5E-A663-5EB2F9F865D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989795EF-E006-4A5E-A663-5EB2F9F865D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989795EF-E006-4A5E-A663-5EB2F9F865D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989795EF-E006-4A5E-A663-5EB2F9F865D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989795EF-E006-4A5E-A663-5EB2F9F865D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80E770A-9C29-43B6-9085-8B8C87C42C0D}
+	EndGlobalSection
+EndGlobal

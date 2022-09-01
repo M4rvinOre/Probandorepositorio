@@ -1,0 +1,20 @@
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\bin\Debug\calcularBonoGuia3.exe.config
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\bin\Debug\calcularBonoGuia3.exe
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\bin\Debug\calcularBonoGuia3.pdb
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.Form1.resources
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.Properties.Resources.resources
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.exe
+C:\Users\dell\Desktop\PRN115 2021 En Linea\Guia Lab3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.pdb
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\bin\Debug\calcularBonoGuia3.exe.config
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\bin\Debug\calcularBonoGuia3.exe
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\bin\Debug\calcularBonoGuia3.pdb
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.csproj.AssemblyReference.cache
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.Form1.resources
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.Properties.Resources.resources
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.csproj.GenerateResource.cache
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.csproj.CoreCompileInputs.cache
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.exe
+C:\Users\Marvin Orellana\Downloads\Guia lab 3\calcularBonoGuia3\calcularBonoGuia3\obj\Debug\calcularBonoGuia3.pdb
